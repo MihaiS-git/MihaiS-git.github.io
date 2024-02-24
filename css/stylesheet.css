@@ -1,0 +1,7 @@
+body {
+    background-image: url('../img/background.jpg');
+    background-size:auto;
+    background-repeat:repeat;
+    background-position: center;
+    background-color: #f0f0f0;
+}
